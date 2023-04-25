@@ -40,11 +40,11 @@ export const generateRandomPeople = (): Person => {
   ];
 
   const avatarUrls = [
-    "https://example.com/avatar1.png",
-    "https://example.com/avatar2.png",
-    "https://example.com/avatar3.png",
-    "https://example.com/avatar4.png",
-    "https://example.com/avatar5.png",
+    "https://www.kindpng.com/picc/m/130-1300217_user-icon-member-icon-png-transparent-png.png",
+    "https://www.kindpng.com/picc/m/130-1300217_user-icon-member-icon-png-transparent-png.png",
+    "https://www.kindpng.com/picc/m/130-1300217_user-icon-member-icon-png-transparent-png.png",
+    "https://www.kindpng.com/picc/m/130-1300217_user-icon-member-icon-png-transparent-png.png",
+    "https://www.kindpng.com/picc/m/130-1300217_user-icon-member-icon-png-transparent-png.png",
   ];
 
   let randomPeople: Person;
